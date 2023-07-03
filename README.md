@@ -1,7 +1,19 @@
 # 👋 Hi there, I'm Hyejeong
+<!--  <div>
+I'm <b> web developer. </b>    
+</div>
+ -->
+ 
+<!--  # 📟 GitHub Stats
+<div>
+    ![Hyejeong's github stats]
+    <img src="https://github-readme-stats.vercel.app/api?username=choi-hyejeong&show_icons=true&theme=rose_pine"/>
+</div>
+ -->
+
 
 # :muscle: Skills
-## :muscle: Languages
+## 🧱 Languages
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -79,7 +91,7 @@
 </div><br>
 </div>
 
-## Terminal & Virtualization
+## 🔨 Terminal & Virtualization
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
