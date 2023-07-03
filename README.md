@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hyejeong
+# 👋 Hi there, I'm Hyejeong
 
 # :muscle: Skills
 ## :muscle: Languages
